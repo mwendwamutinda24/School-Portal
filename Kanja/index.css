@@ -1,0 +1,509 @@
+.header{
+    display:flex;
+    width:100%;
+    position:fixed;
+    height:120px;
+    background:white;
+    color:rgb(5, 2, 2);
+    margin-top: 0;
+    box-shadow:4px 3px 2px 5px rgb(241, 236, 236);
+
+
+
+}.results label{
+    margin-left:100px;
+}
+.marks{
+    background:rgb(61, 57, 57);
+    height:130px;
+    color:white;
+}
+.learner{
+    width:200px;
+    height:40px;
+    margin-left:30px;
+}
+
+
+.dashboard{
+    width:280px;
+    height:700px;
+    background:rgb(20, 18, 18);
+   
+}
+
+
+.dashboard {
+  width: 250px;
+  background-color: #2c3e50;
+  padding: 20px;
+  border-radius: 8px;
+  color: white;
+  font-family: Arial, sans-serif;
+  margin-top:130px;
+  
+}
+
+.dashboard h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  text-align: center;
+  border-bottom: 1px solid #34495e;
+  padding-bottom: 10px;
+ 
+}
+
+.dashboard a {
+  display: block;
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  margin: 12px 0;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.dashboard a:hover {
+  background-color: #34495e;
+}
+.header1{
+    margin-top:0px;
+}
+.header1 h1{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.header1 h3{
+    color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left:20px;
+}
+
+.dashboard h2{
+    color:white;
+    margin:20px;
+}
+.header2{
+    width:150px;
+    height:100%;
+    background:black;
+}
+.header2 h2{
+    color:blue;
+}
+
+.page1 i{
+    margin:20px;
+    font-size:40px;
+    margin-left:50px;
+    text-align:center;
+    justify-content: center;
+    color:goldenrod;
+}
+    
+
+.home{
+    display:flex;
+}
+.home-pages{
+    margin-top:140px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+}
+.page1{
+    width:250px;
+    height:200px;
+    background:whitesmoke;
+    border-radius:0.3rem;
+    margin:10px;
+    box-shadow:2px 3px 3px 2px black;
+    font-size:20px;
+    color:rgb(10, 2, 77);
+    flex:none;
+    outline:1px red;
+}
+.page1 {
+    line-height: 1.2;
+    font-size: 16px;
+}
+
+
+
+.page1 a {
+  text-decoration: none;
+  padding-top: 50px;
+  padding-left: 30px;
+  display: inline-block; 
+  color:rgb(16, 2, 75);
+  font-weight:bold;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.form1{
+    width:400px;
+    height:560px;
+    text-align:center;
+    justify-content: center;
+    margin-left:400px;
+    background-color: rgb(52, 52, 95);
+    margin-top:20px;
+}
+input{
+    width:370px;
+    height:30px;
+    margin:10px;
+}
+.form1 h1{
+    color:red;
+    margin:10px;
+    font-weight:bold;
+}
+.btn1{
+    width:380px;
+    margin:10px;
+    height:30px;
+    background:rgb(199, 1, 100);
+    text-align:center;
+    border:none;
+    font-size:20px;
+    color:white;
+}
+.input7{
+    height:400px;
+    width:300px;
+};
+.results{
+    margin-left:30px;
+    margin-top:130px;
+}
+.head h1{
+    text-align:center;
+    color:blue;
+}
+.results table{
+    margin-left:10px;
+}
+.btn1:hover{
+    background:rgb(219, 5, 5);
+    transition-duration: 0.3s;
+}
+
+table{
+    border:groove;
+    margin-left:20px;
+    margin-top:10px;
+}
+table th{
+    border:groove;
+    padding:20px;
+    background-repeat: unset;
+    background:rgb(24, 9, 37);
+    color:white;
+}
+table td{
+    padding:20px;
+    background:whitesmoke;
+}
+.header3 h1{
+    text-align:center;
+    justify-content:center;
+    color:blueviolet;
+}
+.header3 h2{
+    text-align:center;
+    justify-content:center;
+    color:greenyellow;
+}
+.form2{
+    width:400px;
+    height:250px;
+    text-align:center;
+    justify-content: center;
+    margin-left:400px;
+    background:whitesmoke;
+}
+.form2 h3{
+    margin-top:40px;
+    color:red;
+}
+form th{
+    margin-left:10px;
+}
+.btn2{
+    width:380px;
+    height:30px;
+    background:blueviolet;
+    border:none;
+}
+.result1 h3{
+    color:blueviolet;
+    margin-left:20px;
+
+}
+
+.btn4{
+   
+    width:200px;
+    height:30px;
+    color:white;
+    background:rgb(83, 2, 49);
+    border:none;
+    margin-top:30px;
+    margin-left:15px;
+}
+.results input{
+    width:60px;
+    height:30px;
+}
+.marks h2,p{
+    text-align:center;
+}
+.results{
+    margin-top:100px;
+}
+.results1{
+    margin-top:10px;
+}
+
+.marks{
+    text-align:center;
+    width:100%;
+    background:rgb(68, 2, 63);
+    margin-top:0;
+}
+.marks h2{
+    color:white;
+    font-size:30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+.results table{
+    margin-left:-100px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold;
+   
+}
+.marks p{
+    color:rgb(238, 220, 220);
+    font-size:25px;
+    font-weight:bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+label{
+    color:rgb(245, 17, 17);
+    margin:20px;
+}
+.view{
+    margin-top:100px;
+}
+.head1 h2{
+    text-align:center;
+}
+.head1{
+    width:100%;
+    background:blue;
+    color:white;
+    box-shadow:3px 3px 4px 3px white;
+}
+.head1:hover{
+    background:whitesmoke;
+    transition:2s;
+    color:black;
+}
+.term{
+    color:rgb(255, 94, 0);
+    margin:45px;
+}
+.h11{
+    margin:35px;
+}
+.cal{
+    margin-top:140px;
+}
+.cal2{
+    margin-top:140px;
+}
+.home5{
+    width:300px;
+    height:300px;
+    background:blue;
+    color:white;
+}
+.lesson{
+    margin-left:400px;
+}
+.btn10{
+    width:380px;
+    height:40px;
+    background:blue;
+    color:white;
+    border:none;
+    border-radius:0.4rem;
+    margin:10px;
+}
+.btn10:hover{
+    background:red;
+    transition:1s;
+}
+.form4{
+    background:rgb(14, 14, 43);
+    width:400px;
+    
+}
+.results1{
+    margin-top:200px;
+}
+
+.se{
+    display:flex;
+}
+.form4 h1{
+    color:white;
+    padding:5px;
+}
+.lesson-p{
+    margin-top:130px;
+    margin-left:-100px;
+}
+.select Option{
+    font-size:15px;
+    margin-left:100px;
+}
+select{
+    margin-left:30px;
+    width:120px;
+    height:30px;
+    margin-top:35px;
+    font-size:15px;
+}
+.results1{
+    display:flex;
+    margin-top:170px;
+}
+
+@media screen and (max-width: 600px) {
+  .header {
+    flex-direction: column;
+    height: auto;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .dashboard {
+    width: 100%;
+    margin-top: 120px;
+    border-radius: 0;
+    padding: 10px;
+  }
+
+  .home {
+    flex-direction: column;
+  }
+
+  .home-pages {
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .page1 {
+    width: 90%;
+    height: auto;
+    margin: 10px auto;
+    font-size: 16px;
+  }
+
+  .form1,
+  .form2,
+  .form4 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .lesson,
+  .lesson-p {
+    margin-left: 0;
+    margin-top: 20px;
+  }
+
+  .results,
+  .results table {
+    margin-left: 0;
+    width: 100%;
+    overflow-x: auto;
+  }
+
+  .btn1,
+  .btn2,
+  .btn4,
+  .btn10 {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  select {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  input {
+    width: 90%;
+  }
+}
+
+
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  .dashboard {
+    width: 200px;
+  }
+
+  .page1 {
+    width: 45%;
+    margin: 10px;
+  }
+
+  .form1,
+  .form2,
+  .form4 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .lesson {
+    margin-left: 100px;
+  }
+
+  .results table {
+    margin-left: 20px;
+  }
+}
+h1{
+    margin-left:20px;
+}
+
+/* === Large Screens (1025px and above) === */
+@media screen and (min-width: 1025px) {
+  .home-pages {
+    justify-content: flex-start;
+  }
+
+  .page1 {
+    width: 250px;
+  }
+
+  .form1,
+  .form2,
+  .form4 {
+    width: 400px;
+  }
+
+  .lesson {
+    margin-left: 400px;
+  }
+
+  .results table {
+    margin-left: 160px;
+  }
+}
